@@ -4,7 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="631fb2cf-05b9-40f5-962f-26ed31777ebf" name="Changes" comment="" />
+    <list default="true" id="631fb2cf-05b9-40f5-962f-26ed31777ebf" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/MyThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dto/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/dto/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day7/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/day7/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day7/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/day7/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day7/MyThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/day7/MyThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day7/dto/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/day7/dto/Person.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,13 +35,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.language&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/Playdata/IdeaProjects/untitled2",
+    "settings.editor.selected.configurable": "configurable.group.language"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
